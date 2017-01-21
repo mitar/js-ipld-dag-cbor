@@ -45,7 +45,7 @@
     "traverse": "^0.6.6"
   },
   "devDependencies": {
-    "aegir": "^9.2.1",
+    "aegir": "^9.3.3",
     "chai": "^3.5.0",
     "ipfs-block": "^0.5.3",
     "pre-commit": "^1.2.0"
