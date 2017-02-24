@@ -42,7 +42,7 @@
     "cids": "~0.4.1",
     "is-circular": "^1.0.1",
     "multihashes": "~0.3.3",
-    "multihashing-async": "~0.4.2",
+    "multihashing-async": "0.4.2",
     "traverse": "^0.6.6"
   },
   "devDependencies": {
