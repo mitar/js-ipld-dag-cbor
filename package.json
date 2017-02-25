@@ -42,7 +42,7 @@
     "cids": "~0.4.1",
     "is-circular": "^1.0.1",
     "multihashes": "~0.3.3",
-    "multihashing-async": "~0.4.2",
+    "multihashing-async": "git+ssh://git@github.com/mitar/multihashing-async.git#21732f761a05f68438117f3b145a5ccdc972c72a",
     "traverse": "^0.6.6"
   },
   "devDependencies": {
